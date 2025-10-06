@@ -12,10 +12,10 @@
 3. Membuat Description List
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c9635e5-9728-4cc5-add7-1cca00c43ce6" />
    
-4. Membuat Tabel
+4. Membuat Table
    <img width="958" height="585" alt="image" src="https://github.com/user-attachments/assets/7e802f61-d59b-4f36-8ffa-aaf1700cc010" />
 
-5. Mengatur Margin
+5. Mengatur Margin Table
    <img width="953" height="678" alt="image" src="https://github.com/user-attachments/assets/1629ce48-af88-4e46-967b-ff80d7f5f542" />
 
 6. Menggabungkan Sel Data
