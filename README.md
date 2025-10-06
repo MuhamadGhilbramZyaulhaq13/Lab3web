@@ -5,10 +5,13 @@
 
 1. Membuat Ordered list
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7981fc51-3dc4-497a-99de-c477864cff82" />
+   
 2. Membuat unOrdered List
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1efbf87e-57ea-4c25-b48a-9487274c54d9" />
+   
 3. Membuat Description List
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c9635e5-9728-4cc5-add7-1cca00c43ce6" />
+   
 4. Membuat Tabel
    <img width="958" height="585" alt="image" src="https://github.com/user-attachments/assets/7e802f61-d59b-4f36-8ffa-aaf1700cc010" />
 
@@ -19,6 +22,9 @@
    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/c5d8f67f-14dc-456e-b313-8a88b4508556" />
 
 7. Membuat Form
-   <img width="955" height="717" alt="image" src="https://github.com/user-attachments/assets/48dc0383-d1ea-4e47-bbfd-81ec3254f263" />
+   <img width="959" height="763" alt="image" src="https://github.com/user-attachments/assets/0647e833-8f77-4656-be1c-1b88ab1c1c01" />
 
-8. 
+8. Menambahkan Style Pada Form
+   <img width="957" height="743" alt="image" src="https://github.com/user-attachments/assets/9e89d7b5-1f9a-4c1e-96b7-40c226785e37" />
+
+   
